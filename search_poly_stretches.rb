@@ -1,7 +1,7 @@
 #!/mnt/prostlocal/programs/ruby/2.2.2/bin/ruby
 
 
-## TODO: wir suchen poly-R oder Y stretches mit
+## TODO: we search poly-R or Y stretches with
 ## - minimum length (bspw 12)
 ## - einer maximalen rate von R respektive Y Interruptions (bspw 10%)
 
